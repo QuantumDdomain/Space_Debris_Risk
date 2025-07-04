@@ -26,4 +26,4 @@ The dataset contains the following:
 - Feature Map: ZZFeatureMap
 - simulator: Pennylane's 'lightning.qubit'
 
-# At the end, a CSV file named 'predictions.csv' is created, which contains a comparison between the predictions made by the Classical SVM and the Quantum SVM models.
+> At the end, a CSV file named (`predictions.csv`) is created, which contains a comparison between the predictions made by the Classical SVM and the Quantum SVM models.
